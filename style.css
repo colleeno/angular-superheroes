@@ -1,0 +1,11 @@
+li {
+  list-style: none;
+}
+
+.dc {
+  background-color: rgb(100,100,100);
+}
+
+.marvel {
+  background-color: rgb(200,200,200);
+}
